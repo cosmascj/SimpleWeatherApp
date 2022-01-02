@@ -9,7 +9,7 @@ object Constants {
 
 
     const val APP_ID: String = "Enter Api Key Here"
-    const val BASE_URL: String = "http://api.openweathermap.org/data/"
+    const val BASE_URL: String = "Enter the end point here"
     const val METRIC_UNIT: String = "metric"
 
     //This is the name we would use to store our shared preference
